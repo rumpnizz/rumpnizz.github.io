@@ -1,0 +1,3 @@
+[submodule "self-driving-car"]
+	path = self-driving-car
+	url = git@github.com:rumpnizz/self-driving-car.git
